@@ -7,4 +7,4 @@ You can view the source code in GestureRecognitionModel.ipynb and the runnable f
 
 This will not work unless you generate your own data and retrain, but the full source code is available. 
 
-For a summary of results, view ECE 1770 Final presentation powerpoint in the repo. 
+For a summary of results, view HandGestureRecognitionPPT in the repo. 
